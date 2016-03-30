@@ -1,2 +1,5 @@
 # PDXDataScience2016
-PDX Data Science Meetup March 2016 Presentation
+
+![dataarch](SimpleDataArch.jpg)
+
+This repo contains the slides for "Data Engineering Architecture at Simple" both with and without notes. 
