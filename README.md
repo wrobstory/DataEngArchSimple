@@ -1,4 +1,4 @@
-# PDXDataScience2016
+# PDX Data Science March 2016 Meetup
 
 ![dataarch](SimpleDataArch.jpg)
 
